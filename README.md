@@ -47,12 +47,4 @@ This dashboard can be useful for:
 ## 📌 Author
 
 **Sarthak Chaudhary**  
-🚀 Data Analytics Enthusiast | Power BI Developer  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) *(replace with your actual LinkedIn URL)*
-
-## ⭐️ Show Your Support
-
-If you like this project, give it a ⭐️ and feel free to fork or contribute!
-
----
 
